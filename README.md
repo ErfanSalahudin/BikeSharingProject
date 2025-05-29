@@ -10,13 +10,15 @@ Proyek ini berfokus pada analisis mendalam terhadap Bike-Sharing dataset. Melalu
 
 ---
 
-## Demo Aplikasi
+## Link Streamlit
 https://bikesharingproject-ykg7dlpbkuzu4zamfpy8az.streamlit.app/
 
 ---
 
 ### Pra-syarat
 * Python 3.8+
+* CMD/PowerShell
+* Pustaka Python
 
 ### Jalankan Aplikasi Streamlit:
    ```bash
