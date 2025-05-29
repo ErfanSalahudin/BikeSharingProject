@@ -88,7 +88,7 @@ def display_hourly_analysis(filtered_hours_df, start_date, end_date):
 def main():
     st.set_page_config(layout="wide")
     
-    data_folder = "BikeSharingProject\Dashboard/"
+    data_folder = "Dashboard/"
     day_file = "day.csv"
     hour_file = "hour.csv"
     days_df, hours_df = load_and_preprocess_data(data_folder, day_file, hour_file)
