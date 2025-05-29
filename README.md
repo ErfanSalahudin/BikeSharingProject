@@ -5,13 +5,13 @@ Proyek ini berfokus pada analisis mendalam terhadap Bike-Sharing dataset. Melalu
 ---
 
 ## Fitur Utama
-* Dapat memilih tanggal untuk melihat data yang dibutuhkan 
+* Dapat memilih tanggal untuk melihat data yang diinginkan 
 * Visualisasi dari data yang ditampilkan berdasarkan tanggal
 
 ---
 
 ## Demo Aplikasi
-(https://bikesharingproject-ykg7dlpbkuzu4zamfpy8az.streamlit.app/)
+https://bikesharingproject-ykg7dlpbkuzu4zamfpy8az.streamlit.app/
 
 ---
 
