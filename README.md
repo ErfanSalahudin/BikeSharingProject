@@ -1,6 +1,6 @@
 # BikeSharingProject
 
-Deskripsi singkat tentang proyek ini.
+Proyek ini berfokus pada analisis mendalam terhadap Bike-Sharing dataset. Melalui serangkaian investigasi data dan bertujuan untuk mengubah data mentah menjadi data yang bisa digunakan untuk mengetahui langkah langkah selanjutnya dalam pengambilan keputusan.
 
 ---
 
@@ -15,24 +15,10 @@ Deskripsi singkat tentang proyek ini.
 
 ---
 
-## Instalasi dan Cara Menjalankan Lokal
-
 ### Pra-syarat
 * Python 3.8+
 
-### Langkah-langkah
-1.  **Clone Repositori:**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-2.  **Buat dan Aktifkan Lingkungan Virtual:**
-    (Perintah spesifik sesuai OS Anda)
-3.  **Instal Dependensi:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-4.  **Jalankan Aplikasi Streamlit:**
+### Jalankan Aplikasi Streamlit:
    ```bash
     streamlit run Dashboard\dashboard.py
     
